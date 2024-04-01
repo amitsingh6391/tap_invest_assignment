@@ -1,0 +1,37 @@
+name: tap_invest_assignment
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_animate: ^4.5.0
+  flutter_bloc: ^8.1.4
+  flutter_svg: ^2.0.10+1
+  freezed_annotation: ^2.4.1
+  lottie: ^3.1.0
+  google_fonts: ^6.2.1
+  go_router: ^13.2.1
+  bloc_test: ^9.1.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.8
+  freezed: ^2.4.7
+  flutter_gen_runner: ^5.4.0
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
+    - assets/images/
+    - assets/lottie/
+
+
