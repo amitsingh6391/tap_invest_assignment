@@ -1,16 +1,71 @@
 # tap_invest_assignment
 
-A new Flutter project.
 
-## Getting Started
+## Mobile
 
-This project is a starting point for a Flutter application.
+<table>
+  <tr>
+    <td><Image src="screenshots/mobile/home1.png" width ="300"></td>
+    <td><Image src="screenshots/mobile/home2.png" width ="300"></td>
+    <td><Image src="screenshots/mobile/home3.png" width ="300"></td>
+  </tr>
+   <tr>
+    <td><Image src="screenshots/mobile/purchase1.png" width ="300"></td>
+    <td><Image src="screenshots/mobile/purchase2.png" width ="300"></td>
+    <td><Image src="screenshots/mobile/purchase3.png" width ="300"></td>
+  </tr>
+   <tr>
+    <td><Image src="screenshots/mobile/processing1.png" width ="300"></td>
+    <td><Image src="screenshots/mobile/processing2.png" width ="300"></td>
+    <td><Image src="screenshots/mobile/processing3.png" width ="300"></td>
+  </tr>
+   <tr>
+    <td><Image src="screenshots/mobile/signin1.png" width ="300"></td>
+    <td><Image src="screenshots/mobile/signin.png" width ="300"></td>
+  </tr>
+</table>
 
-A few resources to get you started if this is your first Flutter project:
+## Web
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<table>
+  <tr>
+    <td><Image src="screenshots/web/home1.png" width ="300"></td>
+    <td><Image src="screenshots/web/home2.png" width ="300"></td>
+    <td><Image src="screenshots/web/home3.png" width ="300"></td>
+  </tr>
+   <tr>
+    <td><Image src="screenshots/web/purchase1.png" width ="300"></td>
+    <td><Image src="screenshots/web/purchase2.png" width ="300"></td>
+    <td><Image src="screenshots/web/purchase3.png" width ="300"></td>
+  </tr>
+   <tr>
+    <td><Image src="screenshots/web/processing1.png" width ="300"></td>
+    <td><Image src="screenshots/web/processing2.png" width ="300"></td>
+  </tr>
+   <tr>
+    <td><Image src="screenshots/web/signin1.png" width ="300"></td>
+    <td><Image src="screenshots/web/submit1.png" width ="300"></td>
+  </tr>
+</table>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup:
+
+```bash
+git clone [https://github.com/amitsingh6391/tap_invest_assignment.git](https://github.com/amitsingh6391/tap_invest_assignment.git)
+```
+
+```bash
+flutter clean
+```
+
+```bash
+flutter pub get
+```
+
+```bash
+dart pub run build_runner build -d
+```
+
+```bash
+flutter run
+```
