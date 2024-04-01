@@ -5,23 +5,23 @@
 
 <table>
   <tr>
-    <td><Image src="screenshots/mobile/home1.png" width ="300"></td>
-    <td><Image src="screenshots/mobile/home2.png" width ="300"></td>
-    <td><Image src="screenshots/mobile/home3.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/home1.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/home2.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/home3.png" width ="300"></td>
   </tr>
    <tr>
-    <td><Image src="screenshots/mobile/purchase1.png" width ="300"></td>
-    <td><Image src="screenshots/mobile/purchase2.png" width ="300"></td>
-    <td><Image src="screenshots/mobile/purchase3.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/purchase1.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/purchase2.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/purchase3.png" width ="300"></td>
   </tr>
    <tr>
-    <td><Image src="screenshots/mobile/processing1.png" width ="300"></td>
-    <td><Image src="screenshots/mobile/processing2.png" width ="300"></td>
-    <td><Image src="screenshots/mobile/processing3.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/processing1.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/processing2.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/processing3.png" width ="300"></td>
   </tr>
    <tr>
-    <td><Image src="screenshots/mobile/signin1.png" width ="300"></td>
-    <td><Image src="screenshots/mobile/signin.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/signin1.png" width ="300"></td>
+    <td><Image src="screenshot/mobile/signin.png" width ="300"></td>
   </tr>
 </table>
 
@@ -29,22 +29,22 @@
 
 <table>
   <tr>
-    <td><Image src="screenshots/web/home1.png" width ="300"></td>
-    <td><Image src="screenshots/web/home2.png" width ="300"></td>
-    <td><Image src="screenshots/web/home3.png" width ="300"></td>
+    <td><Image src="screenshot/web/home1.png" width ="300"></td>
+    <td><Image src="screenshot/web/home2.png" width ="300"></td>
+    <td><Image src="screenshot/web/home3.png" width ="300"></td>
   </tr>
    <tr>
-    <td><Image src="screenshots/web/purchase1.png" width ="300"></td>
-    <td><Image src="screenshots/web/purchase2.png" width ="300"></td>
-    <td><Image src="screenshots/web/purchase3.png" width ="300"></td>
+    <td><Image src="screenshot/web/purchase1.png" width ="300"></td>
+    <td><Image src="screenshot/web/purchase2.png" width ="300"></td>
+    <td><Image src="screenshot/web/purchase3.png" width ="300"></td>
   </tr>
    <tr>
-    <td><Image src="screenshots/web/processing1.png" width ="300"></td>
-    <td><Image src="screenshots/web/processing2.png" width ="300"></td>
+    <td><Image src="screenshot/web/processing1.png" width ="300"></td>
+    <td><Image src="screenshot/web/processing2.png" width ="300"></td>
   </tr>
    <tr>
-    <td><Image src="screenshots/web/signin1.png" width ="300"></td>
-    <td><Image src="screenshots/web/submit1.png" width ="300"></td>
+    <td><Image src="screenshot/web/signin1.png" width ="300"></td>
+    <td><Image src="screenshot/web/submit1.png" width ="300"></td>
   </tr>
 </table>
 
